@@ -1,0 +1,1839 @@
+{
+  "user": {
+    "display_name": "Dinesh Nadimpalli",
+    "followers": {
+      "href": null,
+      "total": 2
+    },
+    "images": [
+      {
+        "height": null,
+        "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=669248403275984&height=300&width=300&ext=1601183961&hash=AeRxjWihKEIZscNL",
+        "width": null
+      }
+    ]
+  },
+  "playlists": {
+    "items": [
+      {
+        "name": "Love❤️"
+      },
+      {
+        "name": "Melody"
+      },
+      {
+        "name": "Rock & Roll"
+      },
+      {
+        "name": "Dinesh"
+      }
+    ]
+  },
+  "discover_weekly": {
+    "collaborative": false,
+    "description": "Your Weekly Discovery Of Fresh Music. Enjoy New Discoveries And Deep Cuts Chosen Just For You. Updated Frequently, So Save Your Favorites!",
+    "followers": {
+      "href": null,
+      "total": 76
+    },
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ae4f4d42e4a09f3a29f64adab67616d0000b2734cfcceb6f9b1aae8752810e7ab67616d0000b2735393c5d3cac806092a9bc468ab67616d0000b273ffb343926530168be4724dd4",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ae4f4d42e4a09f3a29f64adab67616d0000b2734cfcceb6f9b1aae8752810e7ab67616d0000b2735393c5d3cac806092a9bc468ab67616d0000b273ffb343926530168be4724dd4",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ae4f4d42e4a09f3a29f64adab67616d0000b2734cfcceb6f9b1aae8752810e7ab67616d0000b2735393c5d3cac806092a9bc468ab67616d0000b273ffb343926530168be4724dd4",
+        "width": 60
+      }
+    ],
+    "name": "Your Discover Weekly",
+    "tracks": {
+      "items": [
+        {
+          "added_at": "2019-10-26T21:38:48Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": true,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": null,
+              "artists": [],
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "images": [],
+              "name": "",
+              "release_date": null,
+              "release_date_precision": null,
+              "type": "album",
+              "uri": null
+            },
+            "artists": [
+              {
+                "external_urls": {},
+                "href": null,
+                "id": null,
+                "name": "",
+                "type": "artist",
+                "uri": null
+              }
+            ],
+            "disc_number": 0,
+            "duration_ms": 355000,
+            "explicit": false,
+            "external_ids": {},
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "is_local": true,
+            "name": ".........................................................................................................................................................................................",
+            "popularity": 0,
+            "preview_url": null,
+            "track_number": 0,
+            "type": "track",
+            "uri": "spotify:local:::.........................................................................................................................................................................................:355"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:53:06Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
+              },
+              "href": "https://api.spotify.com/v1/albums/0h2knr6qpiAq0tV5ri5JMF",
+              "id": "0h2knr6qpiAq0tV5ri5JMF",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e020ae4f4d42e4a09f3a29f64ad",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048510ae4f4d42e4a09f3a29f64ad",
+                  "width": 64
+                }
+              ],
+              "name": "The Days / Nights",
+              "release_date": "2014-01-01",
+              "release_date_precision": "day",
+              "total_tracks": 4,
+              "type": "album",
+              "uri": "spotify:album:0h2knr6qpiAq0tV5ri5JMF"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 176658,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "CH3131340464"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0ct6r3EGTcMLPtrXHDvVjc",
+            "id": "0ct6r3EGTcMLPtrXHDvVjc",
+            "is_local": false,
+            "name": "The Nights",
+            "popularity": 82,
+            "preview_url": null,
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:0ct6r3EGTcMLPtrXHDvVjc"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:53:39Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3"
+              },
+              "href": "https://api.spotify.com/v1/albums/1s9tU91VJt4sU5owi29GD3",
+              "id": "1s9tU91VJt4sU5owi29GD3",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2734cfcceb6f9b1aae8752810e7",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e024cfcceb6f9b1aae8752810e7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048514cfcceb6f9b1aae8752810e7",
+                  "width": 64
+                }
+              ],
+              "name": "True",
+              "release_date": "2013-09-13",
+              "release_date_precision": "day",
+              "total_tracks": 12,
+              "type": "album",
+              "uri": "spotify:album:1s9tU91VJt4sU5owi29GD3"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 255093,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "CH3131340084"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/4RXpgGM7A4Hg7cFBoH5KyF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4RXpgGM7A4Hg7cFBoH5KyF",
+            "id": "4RXpgGM7A4Hg7cFBoH5KyF",
+            "is_local": false,
+            "name": "Hey Brother",
+            "popularity": 77,
+            "preview_url": null,
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:4RXpgGM7A4Hg7cFBoH5KyF"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:52:48Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3"
+              },
+              "href": "https://api.spotify.com/v1/albums/1s9tU91VJt4sU5owi29GD3",
+              "id": "1s9tU91VJt4sU5owi29GD3",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2734cfcceb6f9b1aae8752810e7",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e024cfcceb6f9b1aae8752810e7",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048514cfcceb6f9b1aae8752810e7",
+                  "width": 64
+                }
+              ],
+              "name": "True",
+              "release_date": "2013-09-13",
+              "release_date_precision": "day",
+              "total_tracks": 12,
+              "type": "album",
+              "uri": "spotify:album:1s9tU91VJt4sU5owi29GD3"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 247426,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "SEUM71301326"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4h8VwCb1MTGoLKueQ1WgbD",
+            "id": "4h8VwCb1MTGoLKueQ1WgbD",
+            "is_local": false,
+            "name": "Wake Me Up",
+            "popularity": 85,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4h8VwCb1MTGoLKueQ1WgbD"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:53:52Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
+              },
+              "href": "https://api.spotify.com/v1/albums/7dqftJ3kas6D0VAdmt3k3V",
+              "id": "7dqftJ3kas6D0VAdmt3k3V",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468",
+                  "width": 64
+                }
+              ],
+              "name": "Stories",
+              "release_date": "2015-10-02",
+              "release_date_precision": "day",
+              "total_tracks": 14,
+              "type": "album",
+              "uri": "spotify:album:7dqftJ3kas6D0VAdmt3k3V"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 230613,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "CHB701400134"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2P4OICZRVAQcYAV2JReRfj",
+            "id": "2P4OICZRVAQcYAV2JReRfj",
+            "is_local": false,
+            "name": "Waiting For Love",
+            "popularity": 80,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2P4OICZRVAQcYAV2JReRfj"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2018-05-27T00:06:28Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4mkvtXQd6rD7zuAHhexEvb"
+              },
+              "href": "https://api.spotify.com/v1/albums/4mkvtXQd6rD7zuAHhexEvb",
+              "id": "4mkvtXQd6rD7zuAHhexEvb",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273aed5951fadce99484bc2caba",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02aed5951fadce99484bc2caba",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851aed5951fadce99484bc2caba",
+                  "width": 64
+                }
+              ],
+              "name": "Levels",
+              "release_date": "2011-01-01",
+              "release_date_precision": "day",
+              "total_tracks": 4,
+              "type": "album",
+              "uri": "spotify:album:4mkvtXQd6rD7zuAHhexEvb"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 199903,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "SEUM71100962"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/0JhKJg5ejeQ8jq89UQtnw8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0JhKJg5ejeQ8jq89UQtnw8",
+            "id": "0JhKJg5ejeQ8jq89UQtnw8",
+            "is_local": false,
+            "name": "Levels - Radio Edit",
+            "popularity": 2,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0JhKJg5ejeQ8jq89UQtnw8"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:53:30Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                  "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                  "name": "Avicii",
+                  "type": "artist",
+                  "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
+              },
+              "href": "https://api.spotify.com/v1/albums/1m3mf7xkXIwssVriaaTjOS",
+              "id": "1m3mf7xkXIwssVriaaTjOS",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851a26cc58b4d64c2ece3376389",
+                  "width": 64
+                }
+              ],
+              "name": "AVĪCI (01)",
+              "release_date": "2017-08-10",
+              "release_date_precision": "day",
+              "total_tracks": 6,
+              "type": "album",
+              "uri": "spotify:album:1m3mf7xkXIwssVriaaTjOS"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+                },
+                "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
+                "id": "1vCWHaC5f2uS3yhpwWbIA6",
+                "name": "Avicii",
+                "type": "artist",
+                "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+                },
+                "href": "https://api.spotify.com/v1/artists/5JYo7gm2dkyLLlWHjxS7Dy",
+                "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+                "name": "Sandro Cavazza",
+                "type": "artist",
+                "uri": "spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 181672,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+              "isrc": "SE5R71700101"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/6Pgkp4qUoTmJIPn7ReaGxL"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6Pgkp4qUoTmJIPn7ReaGxL",
+            "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+            "is_local": false,
+            "name": "Without You (feat. Sandro Cavazza)",
+            "popularity": 79,
+            "preview_url": null,
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:6Pgkp4qUoTmJIPn7ReaGxL"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:38:38Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": true,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": null,
+              "artists": [],
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "images": [],
+              "name": "",
+              "release_date": null,
+              "release_date_precision": null,
+              "type": "album",
+              "uri": null
+            },
+            "artists": [
+              {
+                "external_urls": {},
+                "href": null,
+                "id": null,
+                "name": "",
+                "type": "artist",
+                "uri": null
+              }
+            ],
+            "disc_number": 0,
+            "duration_ms": 355000,
+            "explicit": false,
+            "external_ids": {},
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "is_local": true,
+            "name": ".........................................................................................................................................................................................",
+            "popularity": 0,
+            "preview_url": null,
+            "track_number": 0,
+            "type": "track",
+            "uri": "spotify:local:::.........................................................................................................................................................................................:355"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:51:03Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+              },
+              "href": "https://api.spotify.com/v1/albums/3JfSxDfmwS5OeHPwLSkrfr",
+              "id": "3JfSxDfmwS5OeHPwLSkrfr",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02da6f73a25f4c79d0e6b4a8bd",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+                  "width": 64
+                }
+              ],
+              "name": "Origins (Deluxe)",
+              "release_date": "2018-11-09",
+              "release_date_precision": "day",
+              "total_tracks": 15,
+              "type": "album",
+              "uri": "spotify:album:3JfSxDfmwS5OeHPwLSkrfr"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 189466,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71806694"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2FY7b99s15jUprqC0M5NCT",
+            "id": "2FY7b99s15jUprqC0M5NCT",
+            "is_local": false,
+            "name": "Natural",
+            "popularity": 82,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2FY7b99s15jUprqC0M5NCT"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:50:54Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+              },
+              "href": "https://api.spotify.com/v1/albums/3JfSxDfmwS5OeHPwLSkrfr",
+              "id": "3JfSxDfmwS5OeHPwLSkrfr",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02da6f73a25f4c79d0e6b4a8bd",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851da6f73a25f4c79d0e6b4a8bd",
+                  "width": 64
+                }
+              ],
+              "name": "Origins (Deluxe)",
+              "release_date": "2018-11-09",
+              "release_date_precision": "day",
+              "total_tracks": 15,
+              "type": "album",
+              "uri": "spotify:album:3JfSxDfmwS5OeHPwLSkrfr"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 260773,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71816161"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2RSHsoi04658QL5xgQVov3",
+            "id": "2RSHsoi04658QL5xgQVov3",
+            "is_local": false,
+            "name": "Bad Liar",
+            "popularity": 83,
+            "preview_url": null,
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:2RSHsoi04658QL5xgQVov3"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:51:57Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+              },
+              "href": "https://api.spotify.com/v1/albums/6nxDQi0FeEwccEPJeNySoS",
+              "id": "6nxDQi0FeEwccEPJeNySoS",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02407bd04707c463bbb3410737",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851407bd04707c463bbb3410737",
+                  "width": 64
+                }
+              ],
+              "name": "Night Visions",
+              "release_date": "2012-09-04",
+              "release_date_precision": "day",
+              "total_tracks": 14,
+              "type": "album",
+              "uri": "spotify:album:6nxDQi0FeEwccEPJeNySoS"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 177506,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71201071"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5qaEfEh1AtSdrdrByCP7qR",
+            "id": "5qaEfEh1AtSdrdrByCP7qR",
+            "is_local": false,
+            "name": "Demons",
+            "popularity": 80,
+            "preview_url": null,
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:5qaEfEh1AtSdrdrByCP7qR"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2018-05-26T23:52:22Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/3KzCJaaRVza9FnSsqtAFeO"
+              },
+              "href": "https://api.spotify.com/v1/albums/3KzCJaaRVza9FnSsqtAFeO",
+              "id": "3KzCJaaRVza9FnSsqtAFeO",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273156aeddf54ed40b1d9d30c9f",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02156aeddf54ed40b1d9d30c9f",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851156aeddf54ed40b1d9d30c9f",
+                  "width": 64
+                }
+              ],
+              "name": "Believer",
+              "release_date": "2017-01-31",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:3KzCJaaRVza9FnSsqtAFeO"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 203782,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71700626"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/6VRghJeP6I0w1KxkdWFfIh"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6VRghJeP6I0w1KxkdWFfIh",
+            "id": "6VRghJeP6I0w1KxkdWFfIh",
+            "is_local": false,
+            "name": "Believer",
+            "popularity": 1,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6VRghJeP6I0w1KxkdWFfIh"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:50:37Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+              },
+              "href": "https://api.spotify.com/v1/albums/33pt9HBdGlAbRGBHQgsZsU",
+              "id": "33pt9HBdGlAbRGBHQgsZsU",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+                  "width": 64
+                }
+              ],
+              "name": "Evolve",
+              "release_date": "2017-06-23",
+              "release_date_precision": "day",
+              "total_tracks": 12,
+              "type": "album",
+              "uri": "spotify:album:33pt9HBdGlAbRGBHQgsZsU"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 187146,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71704167"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1zB4vmk8tFRmM9UULNzbLB",
+            "id": "1zB4vmk8tFRmM9UULNzbLB",
+            "is_local": false,
+            "name": "Thunder",
+            "popularity": 85,
+            "preview_url": null,
+            "track": true,
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:1zB4vmk8tFRmM9UULNzbLB"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:52:15Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+              },
+              "href": "https://api.spotify.com/v1/albums/33pt9HBdGlAbRGBHQgsZsU",
+              "id": "33pt9HBdGlAbRGBHQgsZsU",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048515675e83f707f1d7271e5cf8a",
+                  "width": 64
+                }
+              ],
+              "name": "Evolve",
+              "release_date": "2017-06-23",
+              "release_date_precision": "day",
+              "total_tracks": 12,
+              "type": "album",
+              "uri": "spotify:album:33pt9HBdGlAbRGBHQgsZsU"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 201240,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71703515"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6Qn5zhYkTa37e91HC1D7lb",
+            "id": "6Qn5zhYkTa37e91HC1D7lb",
+            "is_local": false,
+            "name": "Whatever It Takes",
+            "popularity": 81,
+            "preview_url": null,
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:6Qn5zhYkTa37e91HC1D7lb"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2018-05-26T23:52:18Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+              },
+              "href": "https://api.spotify.com/v1/albums/6htgf3qv7vGcsdxLCDxKp8",
+              "id": "6htgf3qv7vGcsdxLCDxKp8",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273b2b2747c89d2157b0b29fb6a",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02b2b2747c89d2157b0b29fb6a",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851b2b2747c89d2157b0b29fb6a",
+                  "width": 64
+                }
+              ],
+              "name": "Night Visions",
+              "release_date": "2012-09-04",
+              "release_date_precision": "day",
+              "total_tracks": 12,
+              "type": "album",
+              "uri": "spotify:album:6htgf3qv7vGcsdxLCDxKp8"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 186813,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71201074"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4G8gkOterJn0Ywt6uhqbhp",
+            "id": "4G8gkOterJn0Ywt6uhqbhp",
+            "is_local": false,
+            "name": "Radioactive",
+            "popularity": 73,
+            "preview_url": null,
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4G8gkOterJn0Ywt6uhqbhp"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2018-05-26T23:52:20Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "album",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/1vAEF8F0HoRFGiYOEeJXHW"
+              },
+              "href": "https://api.spotify.com/v1/albums/1vAEF8F0HoRFGiYOEeJXHW",
+              "id": "1vAEF8F0HoRFGiYOEeJXHW",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b273dee648abe19dd6e10902c4ae",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e02dee648abe19dd6e10902c4ae",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d00004851dee648abe19dd6e10902c4ae",
+                  "width": 64
+                }
+              ],
+              "name": "Night Visions (Deluxe)",
+              "release_date": "2012-09-04",
+              "release_date_precision": "day",
+              "total_tracks": 20,
+              "type": "album",
+              "uri": "spotify:album:1vAEF8F0HoRFGiYOEeJXHW"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 189840,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+              "isrc": "USUM71201073"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/4eLSCSELtKxZwXnFbNLXT5"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4eLSCSELtKxZwXnFbNLXT5",
+            "id": "4eLSCSELtKxZwXnFbNLXT5",
+            "is_local": false,
+            "name": "On Top Of The World",
+            "popularity": 1,
+            "preview_url": null,
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:4eLSCSELtKxZwXnFbNLXT5"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:51:18Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": "single",
+              "artists": [
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+                  "id": "55Aa2cqylxrFIXC767Z865",
+                  "name": "Lil Wayne",
+                  "type": "artist",
+                  "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+                  "id": "137W8MRPWKqSmrBGDBFSop",
+                  "name": "Wiz Khalifa",
+                  "type": "artist",
+                  "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+                },
+                {
+                  "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                  },
+                  "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                  "id": "53XhwfbYqKCa1cC15pYq2q",
+                  "name": "Imagine Dragons",
+                  "type": "artist",
+                  "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+                }
+              ],
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
+              },
+              "href": "https://api.spotify.com/v1/albums/704GHNtZhEe9TBgleCNNGv",
+              "id": "704GHNtZhEe9TBgleCNNGv",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab67616d0000b2737d8dfcfd507069d7f2062caf",
+                  "width": 640
+                },
+                {
+                  "height": 300,
+                  "url": "https://i.scdn.co/image/ab67616d00001e027d8dfcfd507069d7f2062caf",
+                  "width": 300
+                },
+                {
+                  "height": 64,
+                  "url": "https://i.scdn.co/image/ab67616d000048517d8dfcfd507069d7f2062caf",
+                  "width": 64
+                }
+              ],
+              "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+              "release_date": "2016-06-24",
+              "release_date_precision": "day",
+              "total_tracks": 1,
+              "type": "album",
+              "uri": "spotify:album:704GHNtZhEe9TBgleCNNGv"
+            },
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                },
+                "href": "https://api.spotify.com/v1/artists/55Aa2cqylxrFIXC767Z865",
+                "id": "55Aa2cqylxrFIXC767Z865",
+                "name": "Lil Wayne",
+                "type": "artist",
+                "uri": "spotify:artist:55Aa2cqylxrFIXC767Z865"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+                },
+                "href": "https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop",
+                "id": "137W8MRPWKqSmrBGDBFSop",
+                "name": "Wiz Khalifa",
+                "type": "artist",
+                "uri": "spotify:artist:137W8MRPWKqSmrBGDBFSop"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                },
+                "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "type": "artist",
+                "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+                },
+                "href": "https://api.spotify.com/v1/artists/3NPpFNZtSTHheNBaWC82rB",
+                "id": "3NPpFNZtSTHheNBaWC82rB",
+                "name": "X Ambassadors",
+                "type": "artist",
+                "uri": "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+                },
+                "href": "https://api.spotify.com/v1/artists/4xRYI6VqpkE3UwrDrAZL8L",
+                "id": "4xRYI6VqpkE3UwrDrAZL8L",
+                "name": "Logic",
+                "type": "artist",
+                "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                },
+                "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                "name": "Ty Dolla $ign",
+                "type": "artist",
+                "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+              }
+            ],
+            "disc_number": 1,
+            "duration_ms": 243490,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+              "isrc": "USAT21601893"
+            },
+            "external_urls": {
+              "spotify": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4dASQiO1Eoo3RJvt74FtXB",
+            "id": "4dASQiO1Eoo3RJvt74FtXB",
+            "is_local": false,
+            "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=ada347cb575d44a18e5af154d05f940b",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:4dASQiO1Eoo3RJvt74FtXB"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:38:51Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": true,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": null,
+              "artists": [],
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "images": [],
+              "name": "",
+              "release_date": null,
+              "release_date_precision": null,
+              "type": "album",
+              "uri": null
+            },
+            "artists": [
+              {
+                "external_urls": {},
+                "href": null,
+                "id": null,
+                "name": "",
+                "type": "artist",
+                "uri": null
+              }
+            ],
+            "disc_number": 0,
+            "duration_ms": 355000,
+            "explicit": false,
+            "external_ids": {},
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "is_local": true,
+            "name": ".........................................................................................................................................................................................",
+            "popularity": 0,
+            "preview_url": null,
+            "track_number": 0,
+            "type": "track",
+            "uri": "spotify:local:::.........................................................................................................................................................................................:355"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:38:43Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": true,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": null,
+              "artists": [],
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "images": [],
+              "name": "",
+              "release_date": null,
+              "release_date_precision": null,
+              "type": "album",
+              "uri": null
+            },
+            "artists": [
+              {
+                "external_urls": {},
+                "href": null,
+                "id": null,
+                "name": "",
+                "type": "artist",
+                "uri": null
+              }
+            ],
+            "disc_number": 0,
+            "duration_ms": 355000,
+            "explicit": false,
+            "external_ids": {},
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "is_local": true,
+            "name": ".........................................................................................................................................................................................",
+            "popularity": 0,
+            "preview_url": null,
+            "track_number": 0,
+            "type": "track",
+            "uri": "spotify:local:::.........................................................................................................................................................................................:355"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        },
+        {
+          "added_at": "2019-10-26T21:38:44Z",
+          "added_by": {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/the23banzaj"
+            },
+            "href": "https://api.spotify.com/v1/users/the23banzaj",
+            "id": "the23banzaj",
+            "type": "user",
+            "uri": "spotify:user:the23banzaj"
+          },
+          "is_local": true,
+          "primary_color": null,
+          "track": {
+            "album": {
+              "album_type": null,
+              "artists": [],
+              "external_urls": {},
+              "href": null,
+              "id": null,
+              "images": [],
+              "name": "",
+              "release_date": null,
+              "release_date_precision": null,
+              "type": "album",
+              "uri": null
+            },
+            "artists": [
+              {
+                "external_urls": {},
+                "href": null,
+                "id": null,
+                "name": "",
+                "type": "artist",
+                "uri": null
+              }
+            ],
+            "disc_number": 0,
+            "duration_ms": 355000,
+            "explicit": false,
+            "external_ids": {},
+            "external_urls": {},
+            "href": null,
+            "id": null,
+            "is_local": true,
+            "name": ".........................................................................................................................................................................................",
+            "popularity": 0,
+            "preview_url": null,
+            "track_number": 0,
+            "type": "track",
+            "uri": "spotify:local:::.........................................................................................................................................................................................:355"
+          },
+          "video_thumbnail": {
+            "url": null
+          }
+        }
+      ],
+      "limit": 100,
+      "next": "https://api.spotify.com/v1/playlists/5O0lR7LiAE5kPqw0XEDKRn/tracks?offset=100&limit=100",
+      "offset": 0,
+      "previous": null,
+      "total": 124
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5O0lR7LiAE5kPqw0XEDKRn"
+  }
+}

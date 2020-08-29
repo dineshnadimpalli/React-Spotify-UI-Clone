@@ -1,68 +1,66 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Overview
 
-## Available Scripts
+A react-based <code>Spotify UI clone</code> application using Spotify APIs for 
+- <code>authentication</code> 
+- <code>User details</code> 
+- <code>getting playlists</code>
+- <code>getting personal discover weekly</code>
 
-In the project directory, you can run:
+#### Note: Search results are pre-loaded in <code>src > utils > data.json</code> for development purpose. For real-time results follow the below steps
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<img src='./demo.gif'>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Project Setup
 
-### `npm test`
+<ul>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Clone the project 
+<hr>
+<code>git clone https://github.com/dineshnadimpalli/React-Spotify-UI-Clone.git</code>
+<br><br>
 
-### `npm run build`
+### Install Dependencies
+<hr>
+Enter the project directory and do
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<code>npm install (or) npm i</code>
+<br><br>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Run the application
+<hr>
+<code>npm start</code>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This will run the project in http://localhost:3000
+<br><br>
 
-### `npm run eject`
+### Create a Spotify Application
+<hr>
+Follow this guide <a>https://developer.spotify.com/documentation/general/guides/app-settings</a> to create a spotify application in <a>developer.spotify.com</a> for using Spotify APIs
+<br><br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Edit Settings
+<hr>
+Click on <code>Edit settings</code> in your Spotify application and set redirect url as <a>http://localhost:3000</a> also copy the <code>Client ID</code> and paste it in the <code>src > utils > spotify.js</code>
+<br><br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### One Last Step
+<hr>
+Finally, modify the code in the <code>src > utils > spotify.js</code> and <code>src > App.js</code> accordingly and you are code is ready for launch 🚀
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+</ul>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<br><br>
 
-## Learn More
+<hr>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Happy Coding... 👨🏻‍💻✌️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br><br>
 
-### Code Splitting
+## Resource Links
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
+- https://developer.spotify.com/documentation/general/guides/scopes/
 
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
